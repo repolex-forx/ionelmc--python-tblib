@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/ionelmc/python-tblib/commit/d88606aab343749dfeccf16a813f63cbe2dae11e",
       "git:hexsha": "d88606aab343749dfeccf16a813f63cbe2dae11e",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v3.2.2"
     },
     {
