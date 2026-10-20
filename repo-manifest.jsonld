@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/ionelmc/python-tblib/commit/d88606aab343749dfeccf16a813f63cbe2dae11e",
       "git:hexsha": "d88606aab343749dfeccf16a813f63cbe2dae11e",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v3.2.2"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v3.2.2",
+      "repolex:parsedAt": "2026-10-20T19:42:08.080904+00:00"
     },
     {
       "@id": "https://repolex.ai/r/ionelmc/python-tblib/commit/ec6f26413a239e39a32f5e692a2c019695073e7e",
